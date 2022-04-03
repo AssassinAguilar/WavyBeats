@@ -4,6 +4,7 @@
 
 Before you begin:
 - This project is powered by Flutter. Make sure you have the latest version of Flutter.
+- Have you read the [code of conduct](/CODE_OF_CONDUCT.md)?
 - Make sure to check if an [issue exists](https://github.com/AssassinAguilar/WavyBeats/issues) already & see if the issue is assigned to anyone or not.
 - If no one is assigned you can start working on the issue.
 - Make sure to leave a comment stating that you are working on the issue.
