@@ -1,0 +1,37 @@
+name: wavy_beats
+description: An Open Source Offline Music Player Made by Jigyasu Tanwar with Flutter.
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  audio_service: ^0.18.3
+  audio_session: ^0.1.6+1
+  audiotagger: ^2.2.1
+  cupertino_icons: ^1.0.2
+  device_info: ^2.0.3
+  file_picker: ^4.3.0
+  flutter:
+    sdk: flutter
+  just_audio: ^0.9.18
+  marquee: ^2.2.0
+  path_provider: ^2.0.9
+  permission_handler: ^8.3.0
+  rxdart: ^0.27.3
+  shared_preferences: ^2.0.11
+  url_launcher: ^6.0.17
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: Samsung-Sans
+      fonts:
+        - asset: assets/samsung_sans.ttf
