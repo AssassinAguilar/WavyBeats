@@ -5,7 +5,7 @@
 Wavy Beats is an open source offline music player made by Jigyasu Tanwar with Flutter.
 
 ![Release](https://img.shields.io/github/v/release/AssassinAguilar/WavyBeats?color=blue&label=Release%20Version&style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/AssassinAguilar/WavyBeats/v1.0.0/total?color=blue&label=Downloads&style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/AssassinAguilar/WavyBeats/total?color=blue&label=Downloads&style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge)
 
 ![Issues](https://img.shields.io/github/issues/AssassinAguilar/WavyBeats?color=blue&label=Issues&style=for-the-badge)
